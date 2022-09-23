@@ -235,7 +235,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 > solução. Classifique esses requisitos em dois grupos:
 >
 > - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
+>   interface
+>   identificação de características pessoais
+>   opção da língua a ser utilizada 
+>   escolha do jogo de preferência 
+>   seleção da experiência do parceiro no jogo
+
 >   plataforma (ex: cadastro de usuário).
 >
 > - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
