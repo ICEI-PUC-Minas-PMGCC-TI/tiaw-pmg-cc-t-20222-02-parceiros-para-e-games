@@ -56,7 +56,8 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Dificuldade de encontrar pessoas com mesmos interesses em ambientes de jogos digitais
+
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
