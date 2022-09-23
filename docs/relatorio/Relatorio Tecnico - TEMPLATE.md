@@ -231,8 +231,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| Programação  | MÉDIA | 
+|RNF-002| Software  |  BAIXA | 
+|RNF-003| Software  |  BAIXA |
+|RNF-004| Suporte a dispositivos IOS e Android  |  BAIXA |
+|RNF-005| Outras formas de ingresso  |  BAIXA |
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
@@ -281,7 +284,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+A interface foi feita para acolher de forma amigavel e ter um visual chamativo ao usuario, onde colocamos cores complementares opostas, além de linguagens diferentes acolhendo a todos.
 
 > Apresente as principais interfaces da solução. Discuta como 
 > foram elaboradas de forma a atender os requisitos funcionais, não
@@ -377,15 +380,14 @@ previamente pelo professor, porém o MarvelApp foi escolhido por sua simplicidad
 > 
 > As ferramentas empregadas no projeto são:
 > 
-> - Visual Studio Code
-> - Discord
+> - Editor de código.
+> - Ferramentas de comunicação
 > - Ferramentas de diagramação
 > - Plataforma de hospedagem
 > 
-> O editor de código foi escolhido porque os integrantes já o conheciam e tinham facilidade
-> assim como a ferramenta de comunicação.
-
-> Por fim, para criar
+> O editor de código foi escolhido porque ele possui uma integração com o
+> sistema de versão. As ferramentas de comunicação utilizadas possuem
+> integração semelhante e por isso foram selecionadas. Por fim, para criar
 > diagramas utilizamos essa ferramenta por melhor captar as
 > necessidades da nossa solução.
 > 
