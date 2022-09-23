@@ -335,7 +335,7 @@ A interface foi feita para acolher de forma amigavel e ter um visual chamativo a
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+- A metodologia ultilizada no projeto, teve como base uma divisão de tarefas especificas onde, no geral todos ajudaram no projeto como um todo, porem cada um pegou uma parte para focar.
 
 > Nesta parte do documento, você deve apresentar a metodologia 
 > adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
