@@ -172,7 +172,7 @@ Encontrar parceiros para jogos digitais, filtrando sua idade, interesses, gêner
 > 
 > > **Pesona 3**
 > 
-> ![Persona 3](imaages/../images/modelo-de-persona-maria.png)
+> ![Persona 3](imaages/../images/WhatsApp Image 2022-09-23 at 16.19.55.jpeg)
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
