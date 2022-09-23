@@ -172,7 +172,7 @@ Encontrar parceiros para jogos digitais, filtrando sua idade, interesses, gêner
 > 
 > > **Pesona 3**
 > 
-> ![Persona 3](imaages/../images/persona shirley.png)
+> ![Persona 3](imaages/../images/persona-shirley.png)
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
