@@ -77,9 +77,9 @@ Encontrar parceiros para jogos digitais, filtrando sua idade, interesses, gêner
 
 ## Objetivos
 
-Criar uma aplicação onde integramos pessoas com interesses em jogos digitais para jogarem juntos
-Incentivar uma boa conduta em jogos digitais
-Incentivar interações sociais entre os usuarios
+- Criar uma aplicação onde integramos pessoas com interesses em jogos digitais para jogarem juntos
+- Incentivar uma boa conduta em jogos digitais
+- Incentivar interações sociais entre os usuarios para o desenvolvimento moral dos mesmos
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
