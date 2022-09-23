@@ -293,7 +293,7 @@ A interface foi feita para acolher de forma amigavel e ter um visual chamativo a
 
 ## User Flow
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
+> ![User flow](images/user-flow.png)
 
 > Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
 > mapear todo fluxo de telas do site ou app. Essa técnica funciona
@@ -306,8 +306,8 @@ A interface foi feita para acolher de forma amigavel e ter um visual chamativo a
 > - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
 >
 > **Exemplo**:
-> 
-> ![Exemplo de UserFlow](images/user-flow.png)
+
+
 
 
 ## Wireframes
@@ -395,7 +395,12 @@ previamente pelo professor, porém o MarvelApp foi escolhido por sua simplicidad
 > - Discord
 > - Ferramentas de diagramação
 > - Plataforma de hospedagem
->  -Miro, GitHub, Google-apresentação, Illustrator, Photoshop, MarvelApp
+> - Miro
+> - GitHub
+> - Google-apresentação
+> - Illustrator
+> - Photoshop
+> - MarvelApp
 > 
 > O editor de código foi escolhido porque os integrantes já o conheciam 
 > e tinham facilidade, assim como a ferramenta de comunicação utilizada.
