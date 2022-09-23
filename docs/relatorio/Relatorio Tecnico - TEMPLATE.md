@@ -8,7 +8,7 @@
 ## Participantes
 
 
-> Os membros do grupo são: 
+> Os membros do grupo são:
  - Arthur Octavio Xavier Messias
  - João Vitor Antunes de Oliveira
  - Luiz Fernando Antunes da Silva Frassi
