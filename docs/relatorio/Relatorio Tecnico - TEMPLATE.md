@@ -172,10 +172,16 @@ Encontrar parceiros para jogos digitais, filtrando sua idade, interesses, gêner
 > > **Pesona 2**
 > 
 > ![Persona 2](imaages/../images/modelo-de-persona-blog-pedrinho.png)
+> **Mapa 1**
+>
+> ![Mapa 2](imaages/../images/Mapa-Pedrinho.png)
 > 
 > > **Pesona 3**
 > 
 > ![Persona 3](imaages/../images/persona-shirley.png)
+> **Mapa 1**
+>
+> ![Mapa 3](imaages/../images/Mapa-Shirley.png)
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
