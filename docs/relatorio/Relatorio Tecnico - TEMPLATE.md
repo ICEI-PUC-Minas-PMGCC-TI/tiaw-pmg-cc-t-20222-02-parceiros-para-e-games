@@ -143,8 +143,9 @@ Encontrar parceiros para jogos digitais, filtrando sua idade, interesses, gêner
 
 ## Personas e Mapas de Empatia
 
-
-COLOQUE O TEXTO AQUI
+O problema foi idealizado inicialmente pensando nas próprias experiências dos membros e foi definido realmente após
+entrevistas com alguns jogadores de diferentes faixas estárias, obtendo assim maior detalhamento da dor.
+Os resultados obtidos foram transformados nos modelos de persona, mapas de empatia e histórias de usuário.
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
