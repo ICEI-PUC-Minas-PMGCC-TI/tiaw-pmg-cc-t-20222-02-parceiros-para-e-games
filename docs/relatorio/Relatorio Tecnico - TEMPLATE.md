@@ -220,8 +220,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Interface | ALTA | 
+|RF-002| Identificação de características pessoais   | MÉDIA |
+|RF-003| Opção da língua a ser utilizada    | MÉDIA |
+|RF-004| Escolha do jogo de preferência   | MÉDIA |
+|RF-005| Seleção da experiência do parceiro no jogo   | MÉDIA |
 
 
 ### Requisitos não Funcionais
