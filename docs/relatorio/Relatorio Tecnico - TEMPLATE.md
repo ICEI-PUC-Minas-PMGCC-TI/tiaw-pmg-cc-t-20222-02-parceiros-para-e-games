@@ -165,7 +165,10 @@ Encontrar parceiros para jogos digitais, filtrando sua idade, interesses, gêner
 > **Pesona 1**
 > 
 > ![Persona 1](imaages/../images/modelo-de-persona-maria.png)
-> 
+>
+> **Mapa 1**
+>
+> ![Mapa 1](imagens/../imagens/Mapa-Maria.png)
 > > **Pesona 2**
 > 
 > ![Persona 2](imaages/../images/modelo-de-persona-blog-pedrinho.png)
