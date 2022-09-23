@@ -144,10 +144,7 @@ Encontrar parceiros para jogos digitais, filtrando sua idade, interesses, gêner
 ## Personas e Mapas de Empatia
 
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Pedro Batista       | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Maria               | Alterar permissões                 | Permitir que possam administrar contas |
+COLOQUE O TEXTO AQUI
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
