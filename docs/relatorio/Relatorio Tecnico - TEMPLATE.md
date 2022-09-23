@@ -199,7 +199,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Maria               | Jogar com mais brasileiros                      | Não receber insultos                   |
 |Maria               | Melhorar sua jogabilidade                       | Ganhar mais campeonatos                |
 |Shirley Jordana     | Facilidade de encontrar parceiros               | Se divertir com outras pessoas         |
-|Shirley Jordana     | Encontrar pessoas que jogams jogos antigos      | Poder compartilhar seus gostos         |
+|Shirley Jordana     | Encontrar pessoas que jogam jogos antigos       | Poder compartilhar seus gostos         |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
