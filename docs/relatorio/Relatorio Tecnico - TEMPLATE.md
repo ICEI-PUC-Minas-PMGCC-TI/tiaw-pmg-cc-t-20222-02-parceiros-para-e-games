@@ -8,7 +8,7 @@
 ## Participantes
 
 
-
+> Os membros do grupo são: 
  - Lygia Araújo Barbosa Lott
  - Maria Clara Estelita de Almeida Bicalho da Cruz
  - Arthur Octavio Xavier Messias
@@ -16,11 +16,6 @@
  - João Vitor Antunes de Oliveira
  - Yuri de Oliveira Silva
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
 
 # Estrutura do Documento
 
