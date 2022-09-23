@@ -8,13 +8,13 @@
 ## Participantes
 
 
-> Os membros do grupo são:
- - Arthur Octavio Xavier Messias
- - João Vitor Antunes de Oliveira
- - Luiz Fernando Antunes da Silva Frassi
- - Lygia Araújo Barbosa Lott
- - Maria Clara Estelita de Almeida Bicalho da Cruz
- - Yuri de Oliveira Silva
+> Os membros do grupo são: 
+ - Arthur Octavio Xavier Messias.
+ - João Vitor Antunes de Oliveira.
+ - Luiz Fernando Antunes da Silva Frassi.
+ - Lygia Araújo Barbosa Lott.
+ - Maria Clara Estelita de Almeida Bicalho da Cruz.
+ - Yuri de Oliveira Silva.
 
 
 # Estrutura do Documento
