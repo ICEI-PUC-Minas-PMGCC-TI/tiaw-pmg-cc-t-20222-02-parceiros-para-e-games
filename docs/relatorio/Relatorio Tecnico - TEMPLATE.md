@@ -162,9 +162,17 @@ Encontrar parceiros para jogos digitais, filtrando sua idade, interesses, gêner
 > - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
 > 
 > 
-> **Exemplo de Persona**
+> **Pesona 1**
 > 
 > ![Persona 1](imaages/../images/modelo-de-persona-maria.png)
+> 
+> > **Pesona 2**
+> 
+> ![Persona 2](imaages/../images/modelo-de-persona-maria.png)
+> 
+> > **Pesona 3**
+> 
+> ![Persona 3](imaages/../images/modelo-de-persona-maria.png)
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
