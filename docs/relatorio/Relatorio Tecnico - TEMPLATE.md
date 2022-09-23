@@ -9,11 +9,11 @@
 
 
 > Os membros do grupo são: 
+ - Arthur Octavio Xavier Messias
+ - João Vitor Antunes de Oliveira
+ - Luiz Fernando Antunes da Silva Frassi
  - Lygia Araújo Barbosa Lott
  - Maria Clara Estelita de Almeida Bicalho da Cruz
- - Arthur Octavio Xavier Messias
- - Luiz Fernando Antunes da Silva Frassi
- - João Vitor Antunes de Oliveira
  - Yuri de Oliveira Silva
 
 
@@ -77,7 +77,7 @@ Encontrar parceiros para jogos digitais, filtrando sua idade, interesses, gêner
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+...... Criar uma aplicação onde integramos pessoas com interesses em jogos digitais para jogarem juntos  ......
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
