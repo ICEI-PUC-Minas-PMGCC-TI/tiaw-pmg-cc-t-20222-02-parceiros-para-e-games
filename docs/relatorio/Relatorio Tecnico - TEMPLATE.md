@@ -92,7 +92,7 @@ Encontrar parceiros para jogos digitais, filtrando sua idade, interesses, gêner
 
 ## Justificativa
 
-- Criar vinculos pessoais, principalmente em um momento pós pandemia para ajudar na saúde mental e entrosamento com outras pessoas
+- A nossa aplicação tem como justificativa criar vinculos pessoais, principalmente em um momento pós pandemia onde procuramos ajudar na saúde mental e entrosamento com outras pessoas
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
