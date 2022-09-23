@@ -192,12 +192,14 @@ Os resultados obtidos foram transformados nos modelos de persona, mapas de empat
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Pedro Batista       | Encontrar jogadores habilidosos    | Não se estressar mais                  |
-|Pedro Batista       | Sorteios de VBucks                 | Poder comprar skins                    |
-|Maria               | Jogar com mais brasileiros         | Não receber insultos                   |
-|Shirley Jordana     | Facilidade de encontrar parceiros  | Se divertir com outras pessoas         |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`              |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|-------------------------------------------------|----------------------------------------|
+|Pedro Batista       | Encontrar jogadores habilidosos                 | Não se estressar mais                  |
+|Pedro Batista       | Sorteios de VBucks                              | Poder comprar skins                    |
+|Maria               | Jogar com mais brasileiros                      | Não receber insultos                   |
+|Maria               | Melhorar sua jogabilidade                       | Ganhar mais campeonatos                |
+|Shirley Jordana     | Facilidade de encontrar parceiros               | Se divertir com outras pessoas         |
+|Shirley Jordana     | Encontrar pessoas que jogams jogos antigos      | Poder compartilhar seus gostos         |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
