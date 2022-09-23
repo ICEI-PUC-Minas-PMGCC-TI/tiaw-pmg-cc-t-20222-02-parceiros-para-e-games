@@ -307,7 +307,7 @@ A interface foi feita para acolher de forma amigavel e ter um visual chamativo a
 >
 > **Exemplo**:
 > 
-> ![Exemplo de UserFlow](images/userflow.jpg)
+> ![Exemplo de UserFlow](images/user-flow.png)
 
 
 ## Wireframes
@@ -353,7 +353,18 @@ A interface foi feita para acolher de forma amigavel e ter um visual chamativo a
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+- Arthur: miro, marvel app, relatório, pdf 
+
+- João Vitor: codigo, hospedando o site, miro, pdf
+
+- Luiz Fernando: criação de persona, relatório
+
+- Lygia: miro, logo, produção de imagens, apresentação
+
+- Maria Clara Estelita: miro, relatório 
+
+- Yuri: logo, relatório, mapa de empatia
+
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 >
@@ -384,6 +395,7 @@ previamente pelo professor, porém o MarvelApp foi escolhido por sua simplicidad
 > - Discord
 > - Ferramentas de diagramação
 > - Plataforma de hospedagem
+>  -Miro, GitHub, Google-apresentação, Illustrator, Photoshop, MarvelApp
 > 
 > O editor de código foi escolhido porque os integrantes já o conheciam 
 > e tinham facilidade, assim como a ferramenta de comunicação utilizada.
@@ -402,7 +414,7 @@ previamente pelo professor, porém o MarvelApp foi escolhido por sua simplicidad
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
+ - 1.0.0
 
 > Discuta como a configuração do projeto foi feita na ferramenta de
 > versionamento escolhida. Exponha como a gerência de tags, merges,
@@ -440,7 +452,11 @@ previamente pelo professor, porém o MarvelApp foi escolhido por sua simplicidad
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+ - E-parceiros se propõe a criar uma interface de encontro de usuários de jogos que promove o encontro de parceiros ideais para cada um.
+ - A plataforma utilizaria características das pessoas como idade, tipo de jogo, experiência e nacionalidade para direcionar os jogadores a usuários com aspectos   semelhantes.
+ - O aplicativo permite a escolha da língua de preferência do usuário facilitando a comunicação universal. 
+ -Por meio de parcerias e concessões com empresas e jogos as despesas de viabilidade seriam sanadas e investimentos a possibilitariam de prosperar.
+
 
 ## Tecnologias Utilizadas
 
