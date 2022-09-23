@@ -301,7 +301,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+![Wireframe 1](imaages/../images/01.png)
+![Wireframe 2](imaages/../images/02.png)
+![Wireframe 3](imaages/../images/03.png)
+![Wireframe 4](imaages/../images/04.png)
+![Wireframe 5](imaages/../images/05.png)
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
