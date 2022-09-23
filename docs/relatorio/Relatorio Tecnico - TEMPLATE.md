@@ -56,7 +56,7 @@
 
 ## Problema
 
-Dificuldade de encontrar pessoas com mesmos interesses em ambientes de jogos digitais
+Encontrar parceiros para jogos digitais, filtrando sua idade, interesses, gênero de jogo e nível do jogador
 
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
