@@ -56,19 +56,11 @@
 
 ## Problema
 
-Encontrar parceiros para jogos digitais, filtrando sua idade, interesses, gênero de jogo e nível do jogador
+O grande número de pessoas que  jogam jogos de computadores atualmente permite que o usuário tenha um número imenso de opções de parceiros para jogar. 
+No momento de fazer essa escolha muitos parceiros infelizmente não se interagem de forma satisfatória e tornam a experiência de jogar juntos um problema.
+Além disso, as características específicas de cada um torna a possibilidade de erro de triagem maior pois as necessidades deles são muito distintas. 
+Dessa maneira para resolver essa questão uma plataforma que possibilite uma discriminação certeira e eficaz tornaria tanto mais agradavel quanto mais veloz o encontro de parceiros em ambientes digitais.
 
-
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
 >
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
