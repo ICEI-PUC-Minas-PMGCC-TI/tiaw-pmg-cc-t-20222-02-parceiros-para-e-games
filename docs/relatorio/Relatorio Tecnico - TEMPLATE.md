@@ -380,13 +380,16 @@ previamente pelo professor, porém o MarvelApp foi escolhido por sua simplicidad
 > 
 > As ferramentas empregadas no projeto são:
 > 
-> - Editor de código.
-> - Ferramentas de comunicação
+> - Visual Studio Code
+> - Discord
 > - Ferramentas de diagramação
 > - Plataforma de hospedagem
 > 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
+> O editor de código foi escolhido porque os integrantes já o conheciam 
+> e tinham facilidade, assim como a ferramenta de comunicação utilizada.
+
+
+> As ferramentas de comunicação utilizadas possuem
 > integração semelhante e por isso foram selecionadas. Por fim, para criar
 > diagramas utilizamos essa ferramenta por melhor captar as
 > necessidades da nossa solução.
