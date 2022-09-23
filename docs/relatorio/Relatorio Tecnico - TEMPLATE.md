@@ -77,9 +77,9 @@ Encontrar parceiros para jogos digitais, filtrando sua idade, interesses, gêner
 
 ## Objetivos
 
-- Criar um site onde integramos pessoas com interesses em jogos digitais para jogarem juntos.
+- Criar uma aplicação onde integramos pessoas com interesses em jogos digitais para jogarem juntos
 - Incentivar uma boa conduta em jogos digitais
-- Incentivar interações sociais entre os usuarios para o desenvolvimento moral dos mesmos.
+- Incentivar interações sociais entre os usuarios para o desenvolvimento moral dos mesmos
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
@@ -272,6 +272,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
+|03| O servidor não pode ser local                         |
+
 
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
@@ -293,7 +295,7 @@ A interface foi feita para acolher de forma amigavel e ter um visual chamativo a
 
 ## User Flow
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
+> ![User flow](images/user-flow.png)
 
 > Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
 > mapear todo fluxo de telas do site ou app. Essa técnica funciona
@@ -306,8 +308,8 @@ A interface foi feita para acolher de forma amigavel e ter um visual chamativo a
 > - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
 >
 > **Exemplo**:
-> 
-> ![Exemplo de UserFlow](images/user-flow.png)
+
+
 
 
 ## Wireframes
@@ -395,7 +397,12 @@ previamente pelo professor, porém o MarvelApp foi escolhido por sua simplicidad
 > - Discord
 > - Ferramentas de diagramação
 > - Plataforma de hospedagem
->  -Miro, GitHub, Google-apresentação, Illustrator, Photoshop, MarvelApp
+> - Miro
+> - GitHub
+> - Google-apresentação
+> - Illustrator
+> - Photoshop
+> - MarvelApp
 > 
 > O editor de código foi escolhido porque os integrantes já o conheciam 
 > e tinham facilidade, assim como a ferramenta de comunicação utilizada.
