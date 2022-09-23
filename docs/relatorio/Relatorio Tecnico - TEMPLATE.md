@@ -1,15 +1,20 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`Parceiros para e-Games e Preço para jogos`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-`CURSO` 
+`Ciência da computação` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+
+
+ - Lygia Araújo Barbosa Lott
+ - Maria Clara Estelita de Almeida Bicalho da Cruz
+ - Arthur Octavio Xavier Messias
+ - Luiz Fernando Antunes da Silva Frassi
+ - João Vitor Antunes de Oliveira
+ - Yuri de Oliveira Silva
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
