@@ -108,7 +108,13 @@ Encontrar parceiros para jogos digitais, filtrando sua idade, interesses, gêner
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+- gênero: homens e mulheres
+- faixa etária: entre 12 e 45 anos
+- escolaridade: fundamental a pós-graduados
+- faixa de renda: sem faixa de renda especifica
+- classe social: A1, A2, B1, B2, C1, C2, D e E
+- localização: Brasil e exterior
+- hábitos de consumo: Apreciadores de jogo digitais
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
@@ -127,7 +133,9 @@ Encontrar parceiros para jogos digitais, filtrando sua idade, interesses, gêner
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+- Servidor principal onde é armazenado todos os dados de usuarios
+- Equipe de desenvolvimento e manutenção do projeto
+- Serviço especializado em suporte para usuarios
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
