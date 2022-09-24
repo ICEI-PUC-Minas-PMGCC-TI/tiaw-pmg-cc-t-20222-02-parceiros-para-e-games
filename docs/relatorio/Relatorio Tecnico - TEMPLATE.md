@@ -225,9 +225,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| Programação  | MÉDIA | 
 |RNF-002| Software  |  BAIXA | 
-|RNF-003| Software  |  BAIXA |
-|RNF-004| Suporte a dispositivos IOS e Android  |  BAIXA |
-|RNF-005| Outras formas de ingresso  |  BAIXA |
+|RNF-003| Suporte a dispositivos IOS e Android  |  BAIXA |
+|RNF-004| Outras formas de ingresso  |  BAIXA |
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
