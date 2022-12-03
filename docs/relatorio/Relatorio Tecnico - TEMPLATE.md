@@ -537,12 +537,7 @@ previamente pelo professor, porém o MarvelApp foi escolhido por sua simplicidad
 
 # Referências
 
-...... COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
->
-> **Links Úteis**:
->
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+> A lista a seguir traz as referências utilizadas nesse trabalho. são elas:
+> • Littlefield, A. Guia da metodologia ágil e scrum para iniciantes. 2016. Disponível em: https://blog.trello.com/br/scrum-metodologia-agil. Acessado em 22/11/2022...
+> • por Bruno Salutes Noobly: saiba como encontrar pessoas para jogar com você. Disponível em: https://canaltech.com.br/apps/noobly-saiba-como-encontrar-pessoas-para-jogar-com-voce/. Acessado em 29/11/2022.
+> • por Bruno Rodrigues Sherwa, o app que te ajuda a encontrar companheiros de equipe e treinadores. Disponível em: https://maisesports.com.br/conheca-sherwa-app-encontrar-parceiros-treinadores/. Acessado em 29/11/2022.
