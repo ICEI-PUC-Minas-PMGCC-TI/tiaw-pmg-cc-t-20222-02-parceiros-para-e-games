@@ -23,7 +23,7 @@ para o desenvolvimento moral dos mesmos.
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 
-#1. Introdução
+##1. Introdução
 O grande número de pessoas que jogam jogos de computadores atualmente 
 permite que o usuário tenha um número imenso de opções de parceiros para jogar.
 No momento de fazer essa escolha muitos parceiros infelizmente não se 
@@ -34,7 +34,7 @@ Dessa maneira para resolver essa questão uma plataforma que possibilite uma
 discriminação certeira e eficaz tornaria tanto mais agradável quanto mais veloz o 
 encontro de parceiros em ambientes digitais.
 
-#1. Problema
+##1. Problema
 
 Dificuldade de encontrar pessoas com mesmos interesses em ambientes de jogos 
 digitais.
@@ -71,7 +71,7 @@ para jogos.
 Pessoas que não possuem tempo de experimentar diferentes parceiros até encontrarem 
 o ideal.
 Pessoas que querem conhecer parceiros com as mesmas afinidades.
-#2. Projeto de Interface
+## 2. Projeto de Interface
 Dentre as preocupações para a montagem da interface do sistema, estamos 
 estabelecendo foco em questões como agilidade, acessibilidade e usabilidade. Desta 
 forma, o projeto tem uma identidade visual padronizada em todas as telas que são 
