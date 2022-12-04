@@ -34,7 +34,7 @@ Dessa maneira para resolver essa questão uma plataforma que possibilite uma
 discriminação certeira e eficaz tornaria tanto mais agradável quanto mais veloz o 
 encontro de parceiros em ambientes digitais.
 
-##1. Problema
+## 1. Problema
 
 Dificuldade de encontrar pessoas com mesmos interesses em ambientes de jogos 
 digitais.
@@ -79,3 +79,37 @@ projetadas para funcionamento em desktops e dispositivos móveis.
 Artefatos de design thinking
 Os diagramas apresentados abaixo demonstram alguns processos de design thinking 
 dos nossos artefatos
+
+## Requisitos do Projeto
+O escopo funcional do projeto é definido por meio dos requisitos funcionais que 
+descrevem as possibilidades interação dos usuários, bem como os requisitos não 
+funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira 
+geral. Estes requisitos são apresentados a seguir.
+Requisitos não funcionais
+ID Descrição Prioridade
+RNF-01 Programação Alta
+RNF-02 Software Alta
+RNF-03 Suporte a dispositivos IOS e Android Média
+RNF-04 Outras formas de ingresso Alta
+Requisitos Funcionais
+ID Descrição Prioridade
+RF-01 Cadastro Perfil Alta
+RF-02 Tela usuário Média
+RF-03 Escolha Idioma Média
+RF-04 Cadastrar jogo Média
+RF-05 Recomendação de jogos Alta
+RF-06 Cadastro Gênero Alta
+RF-07 Chat de Interação individual Baixa
+RF-08 Encontrar por habilidade Alta
+RF-09 Encontrar por região Baixa
+RF-10 Encontrar por plataforma Alta
+RF-11 Encontrar por Idade Média
+RF-12 Encontrar por linguagem Média
+RF-13 Encontrar por jogo Baixa
+RF-14 Encontrar por gênero de jogo Média
+RF-15 Prioridade de cada Filtro Baixa
+RF-16 Solicitar amigo Média
+RF-17 Encontrar jogador Baixa
+RF-18 Avaliação jogadores Média
+RF-19 Pagina suporte Média
+RF-20 Monitores Média
