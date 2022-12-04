@@ -1,19 +1,29 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8549477&assignment_repo_type=AssignmentRepo)
 
+# Informações do Projeto
+
+`Parceiros para e-Games e Preço para jogos`
+
+`Ciência da computação`
+
+## Participantes
+
+> Os membros do grupo são:
+
+- Arthur Octavio Xavier Messias.
+- João Vitor Antunes de Oliveira.
+- Luiz Fernando Antunes da Silva Frassi.
+- Maria Clara Estelita de Almeida Bicalho da Cruz.
+- Yuri de Oliveira Silva.
+
+
 # E-PARCEIROS
 
 O objetivo do projeto é criar uma aplicação onde integramos pessoas com interesses em jogos digitais 
 para jogarem juntos, incentivando uma boa conduta em jogos digitais einterações sociais entre os usuarios 
 para o desenvolvimento moral dos mesmos.
 
-## Alunos integrantes da equipe
 
-* Arthur Octavio Xavier Messias
-* João Vitor Antunes de Oliveira
-* Luiz Fernando Antunes da Silva Frassi
-* Lygia Araújo Barbosa Lott
-* Maria Clara Estelita de Almeida Bicalho da Cruz
-* Yuri de Oliveira Silva
 
 ## Professores responsáveis
 
@@ -79,7 +89,8 @@ projetadas para funcionamento em desktops e dispositivos móveis.
 Artefatos de design thinking
 Os diagramas apresentados abaixo demonstram alguns processos de design thinking 
 dos nossos artefatos
-
+## Wireframes
+![Wireframe](imaages/../images/Mapa-Pedrinho.png)
 ## Requisitos do Projeto
 O escopo funcional do projeto é definido por meio dos requisitos funcionais que 
 descrevem as possibilidades interação dos usuários, bem como os requisitos não 
