@@ -113,3 +113,52 @@ RF-17 Encontrar jogador Baixa
 RF-18 Avaliação jogadores Média
 RF-19 Pagina suporte Média
 RF-20 Monitores Média
+## 3. Tecnologias
+As tecnologias utilizadas no projeto foram a partir das linguagens de programação 
+HMTL, CSS, JAVASCRIPT, JSON, além de repositórios online, e editores de código.
+## 4. Metodologia
+A metodologia utilizada no projeto, teve como base uma divisão de tarefas específicas 
+onde, no geral, todos ajudaram no projeto como um todo, porém cada um pegou um 
+requisito especifico para seu melhor desenvolvimento.
+## 5. Ferramentas
+As ferramentas utilizadas no projeto foram o replit, vscode, github, Marvel 3D e miro.
+Divisão de Papéis
+Todos participaram da construção da proposta e desenvolveram ativamente o que foi 
+acordado em grupo executando as tarefas em tempo hábil.
+Arthur: PDF/Documentação do projeto, Cadastro de perfil, Avaliação de jogadores 
+João Vitor: Site/GitHub, pagina de suporte, Recomendação de jogos
+Luiz Fernando: PowerPoint, solicitar amizade, Tela de usuário
+Maria Clara Estelita: PowerPoint, encontrar jogador, cadastrar jogo
+Yuri: Site/GitHub, chat de interação individual, cadastro de gênero 
+## 6. Funcionalidades de Software
+O nosso projeto tem funcionalidades de software tais como descritas na área de RF 
+(requisitos funcionais) como: 
+Cadastro Perfil
+Tela usuário
+Escolha Idioma
+Cadastrar jogo
+Recomendação de jogos
+Cadastro Gênero
+Chat de Interação individual
+Encontrar por habilidade
+Encontrar por região
+Encontrar por plataforma
+Encontrar por Idade
+Encontrar por linguagem
+Encontrar por jogo
+Encontrar por gênero de jogo
+Prioridade de cada Filtro
+Solicitar amigo
+Encontrar jogador
+Avaliação jogadores
+Pagina suporte
+Monitores
+## Referências
+A lista a seguir traz as referências utilizadas nesse trabalho. são elas:
+• Littlefield, A. Guia da metodologia ágil e scrum para iniciantes. 2016. 
+Disponível em: https://blog.trello.com/br/scrum-metodologia-agil. Acessado em 
+22/11/2022...
+• por Bruno Salutes Noobly: saiba como encontrar pessoas para jogar com 
+você. Disponível em: https://canaltech.com.br/apps/noobly-saiba-comoencontrar-pessoas-para-jogar-com-voce/. Acessado em 29/11/2022.
+• por Bruno Rodrigues Sherwa, o app que te ajuda a encontrar companheiros 
+de equipe e treinadores. Disponível em: https://maisesports.com.br/conhecasherwa-app-encontrar-parceiros-treinadores/. Acessado em 29/11/2022
