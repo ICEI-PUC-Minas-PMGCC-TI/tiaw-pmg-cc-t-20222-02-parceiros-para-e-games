@@ -28,7 +28,8 @@ para o desenvolvimento moral dos mesmos.
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+O site pode ser aberto direto pelo index.html, pelo vscode ou pelo link do replit: https://Sprint4.e-parceiros.repl.co.
+Após passar pela tela de registro e login, será redirecionado para a tela inicial e ver todas as suas funcionalidades.
 
 ## 1. Introdução
 
@@ -42,7 +43,7 @@ Dessa maneira para resolver essa questão uma plataforma que possibilite uma
 discriminação certeira e eficaz tornaria tanto mais agradável quanto mais veloz o
 encontro de parceiros em ambientes digitais.
 
-## 1. Problema
+## 2. Problema
 
 Dificuldade de encontrar pessoas com mesmos interesses em ambientes de jogos
 digitais.
@@ -80,7 +81,7 @@ Pessoas que não possuem tempo de experimentar diferentes parceiros até encontr
 o ideal.
 Pessoas que querem conhecer parceiros com as mesmas afinidades.
 
-## 2. Projeto de Interface
+## 3. Projeto de Interface
 
 Dentre as preocupações para a montagem da interface do sistema, estamos
 estabelecendo foco em questões como agilidade, acessibilidade e usabilidade. Desta
@@ -140,18 +141,18 @@ RF-18 Avaliação jogadores Média
 RF-19 Pagina suporte Média
 RF-20 Monitores Média
 
-## 3. Tecnologias
+## 4. Tecnologias
 
 As tecnologias utilizadas no projeto foram a partir das linguagens de programação
 HMTL, CSS, JAVASCRIPT, JSON, além de repositórios online, e editores de código.
 
-## 4. Metodologia
+## 5. Metodologia
 
 A metodologia utilizada no projeto, teve como base uma divisão de tarefas específicas
 onde, no geral, todos ajudaram no projeto como um todo, porém cada um pegou um
 requisito especifico para seu melhor desenvolvimento.
 
-## 5. Ferramentas
+## 6. Ferramentas
 
 As ferramentas utilizadas no projeto foram o replit, vscode, github, Marvel 3D e miro.
 Divisão de Papéis
@@ -163,7 +164,7 @@ Luiz Fernando: PowerPoint, solicitar amizade, Tela de usuário
 Maria Clara Estelita: PowerPoint, encontrar jogador, cadastrar jogo
 Yuri: Site/GitHub, chat de interação individual, cadastro de gênero
 
-## 6. Funcionalidades de Software
+## 7. Funcionalidades de Software
 
 O nosso projeto tem funcionalidades de software tais como descritas na área de RF
 (requisitos funcionais) como:
