@@ -90,7 +90,7 @@ Artefatos de design thinking
 Os diagramas apresentados abaixo demonstram alguns processos de design thinking 
 dos nossos artefatos
 ## Wireframes
-![Wireframe](imaages/../images/Mapa-Pedrinho.png)
+![Wireframe]( /codigo/Sprint4/imagens/1.png)
 ## Requisitos do Projeto
 O escopo funcional do projeto é definido por meio dos requisitos funcionais que 
 descrevem as possibilidades interação dos usuários, bem como os requisitos não 
